@@ -264,4 +264,9 @@ vim.keymap.set("t", "<Esc>", "<C-\\><C-n>")
 vim.keymap.set("n", "<leader>te>", ":bd!", { desc = "Exit terminal" })
 
 -- OIL BUT NATIVE 
-vim.keymap.set("n", "-", "<cmd>Ex<CR>", { desc = "Open file explorer" })
+-- vim.keymap.set("n", "-", "<cmd>Ex<CR>", { desc = "Open file explorer" })
+
+--OIL
+vim.keymap.set("n", "-", function()
+  vim.cmd("Oil")
+end, { desc = "Abrir el explorador de archivos con Oil.nvim" })

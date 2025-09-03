@@ -1,0 +1,59 @@
+Revert "config fix"
+
+This reverts commit e562dd7fef898c5fe902f8128f46c9737a217086.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   alacritty/alacritty.toml
+#	new file:   btop/btop.conf
+#	new file:   nvim/LICENSE
+#	new file:   nvim/after/ftplugin/astro.lua
+#	new file:   nvim/after/ftplugin/bash.lua
+#	new file:   nvim/after/ftplugin/css.lua
+#	new file:   nvim/after/ftplugin/html.lua
+#	new file:   nvim/after/ftplugin/java.lua
+#	new file:   nvim/after/ftplugin/lua.lua
+#	new file:   nvim/after/ftplugin/markdown.lua
+#	new file:   nvim/after/ftplugin/pseint.lua
+#	new file:   nvim/after/ftplugin/qf.lua
+#	new file:   nvim/after/ftplugin/sh.lua
+#	new file:   nvim/init.lua
+#	new file:   nvim/lazy-lock.json
+#	new file:   nvim/lua/core/config.lua
+#	new file:   nvim/lua/core/functions.lua
+#	new file:   nvim/lua/core/icons.lua
+#	new file:   nvim/lua/core/init.lua
+#	new file:   nvim/lua/core/keymaps.lua
+#	new file:   nvim/lua/core/lazy.lua
+#	new file:   nvim/lua/core/lsp.lua
+#	new file:   nvim/lua/plugins/autopairs.lua
+#	new file:   nvim/lua/plugins/comments.lua
+#	new file:   nvim/lua/plugins/copilot.lua
+#	new file:   nvim/lua/plugins/dressing.lua
+#	new file:   nvim/lua/plugins/dropbar.lua
+#	new file:   nvim/lua/plugins/formatter.lua
+#	new file:   nvim/lua/plugins/gitsigns.lua
+#	new file:   nvim/lua/plugins/gui.lua
+#	new file:   nvim/lua/plugins/harpoon.lua
+#	new file:   nvim/lua/plugins/lastplace.lua
+#	new file:   nvim/lua/plugins/lsp.lua
+#	new file:   nvim/lua/plugins/lualine.lua
+#	new file:   nvim/lua/plugins/neotree.lua
+#	new file:   nvim/lua/plugins/noice.lua
+#	new file:   nvim/lua/plugins/notify.lua
+#	new file:   nvim/lua/plugins/tabout.lua
+#	new file:   nvim/lua/plugins/telescope.lua
+#	new file:   nvim/lua/plugins/theme.lua
+#	new file:   nvim/lua/plugins/tmux.lua
+#	new file:   nvim/lua/plugins/treesitter.lua
+#
+# Untracked files:
+#	btop/btop.bak/
+#	tmux/
+#

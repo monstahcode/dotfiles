@@ -39,7 +39,7 @@ vim.opt.scrolloff = 8
 vim.opt.sidescrolloff = 8
 
 -- Color columns
-vim.opt.colorcolumn = "81"
+vim.opt.colorcolumn = tostring(vim.o.textwidth)
 
 -- Tab config
 vim.opt.tabstop = 4
